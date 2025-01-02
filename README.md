@@ -1,18 +1,18 @@
 # Hi there 👋  I'm Akash Ahilan, Welcome to my GitHub 👋
 
-### 💻 Mechatronics and Biomedical Engineer at McMaster University
+## 💻 Mechatronics and Biomedical Engineer at McMaster University
 
----
-### About Me
----
+
+## About Me
+
   - 👨‍🎓 In my 2rd year studying Mechatronics and Biomedical Engineering at McMaster University
   - 💻 Attendees Relations on DeltaHacks
   - ⚡ Interested in Machine Learning
   - 🌱 Currently learning Full-Stack Development  
 
----
-### Languages, Frameworks, and Tools
----
+
+## Languages, Frameworks, and Tools
+
   - Python
   - Java
   - JavaScript
@@ -21,3 +21,6 @@
   - C++
   - HTML
   - CSS
+
+
+
