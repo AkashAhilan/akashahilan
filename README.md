@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋  I'm Akash Ahilan, Welcome to my GitHub 👋
 
-<!--
-**AkashAhilan/akashahilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##💻 Mechatronics and Biomedical Engineer at McMaster University 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+###About Me 
+---
+👨‍🎓 In my 2rd year studying Mechatronics and Biomedical Engineering at McMaster University
+💻 Attendees Relations on DeltaHacks
+⚡ Interested in Machine Learning
+🌱 Currently learning Full-Stack Development
+---
+Languages, Framework, and Tools
+---
+Python
+Java
+JavaScript
+React
+C
+C++
+HTML
+CSS
