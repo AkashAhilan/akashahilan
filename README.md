@@ -13,6 +13,7 @@
 
 ## Languages, Frameworks, and Tools
 
+  - Kubernetes
   - Python
   - Java
   - JavaScript
