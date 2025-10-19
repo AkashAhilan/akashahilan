@@ -5,7 +5,7 @@
 
 ## About Me
 
-  - 👨‍🎓 In my 2rd year studying Mechatronics and Biomedical Engineering at McMaster University
+  - 👨‍🎓 In my 3rd year studying Mechatronics and Biomedical Engineering at McMaster University
   - 💻 Attendees Relations on DeltaHacks
   - ⚡ Interested in Machine Learning
   - 🌱 Currently learning Full-Stack Development  
