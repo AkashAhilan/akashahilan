@@ -13,13 +13,13 @@
 
 ## Languages, Frameworks, and Tools
 
+  - C
+  - C++
   - Kubernetes
   - Python
   - Java
   - JavaScript
   - React
-  - C
-  - C++
   - HTML
   - CSS
 
