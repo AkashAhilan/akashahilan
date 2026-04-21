@@ -27,8 +27,8 @@
   - Atomic Habits
   - Deep Work
 ### Currently Reading:
-  - The design of everydaythings
-  - The inner game of tennis
+  - The Design of Everyday Things
+  - The Inner Game of Tennis
 ### Next Reads:
   - Advanced Millimeter - Wave Technologies
   - Code  
