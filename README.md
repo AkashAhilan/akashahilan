@@ -22,5 +22,14 @@
   - HTML
   - CSS
 
-
+## Books: 
+  Completed: 
+  - Atomic Habits
+  - Deep Work
+  Currently Reading:
+  - The design of everydaythings
+  - The inner game of tennis
+  Next Reads:
+  - Advanced Millimeter - Wave Technologies
+  - Code  
 
