@@ -24,6 +24,7 @@
 
 ## Books: 
 ### Completed: 
+  - Data Structures and Algorithms in C++ by David Mount
   - Atomic Habits
   - Deep Work
 ### Currently Reading:
