@@ -22,7 +22,7 @@
   - HTML
   - CSS
 
-## Books: 
+## Books in 2026: 
 ### Completed: 
   - Data Structures and Algorithms in C++ by David Mount
   - Atomic Habits
@@ -30,7 +30,10 @@
 ### Currently Reading:
   - The Design of Everyday Things
   - The Inner Game of Tennis
+  - HTWFAIP
+
 ### Next Reads:
   - Advanced Millimeter - Wave Technologies
-  - Code  
+  - Code
+  - The Art of War
 
