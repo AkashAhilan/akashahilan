@@ -38,3 +38,8 @@
   - Code
   - The Art of War
 
+## Courses in 2026: 
+### Currently Doing:
+  - PCB Design: Altium 
+
+
