@@ -14,6 +14,8 @@
 
   - C
   - C++
+  - Grafana
+  - Node-red
   - Kubernetes
   - Python
   - Java
