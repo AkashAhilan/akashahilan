@@ -7,7 +7,7 @@
 
   - 👨‍🎓 In my 3rd year studying Mechatronics and Biomedical Engineering at McMaster University
   - 💻 Attendees Relations on DeltaHacks
-  - ⚡ Working on Embedded Systems
+  - ⚡ Working on Embedded Systems and Automation 
   - 🌱 Currently Focusing On Developing IEEE BionicArm
 
 ## Languages, Frameworks, and Tools
@@ -38,7 +38,6 @@
 ### Next Reads:
   - Advanced Millimeter - Wave Technologies
   - Code
-  - The Art of War
 
 ## Courses in 2026: 
 ### Currently Doing:
