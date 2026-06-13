@@ -24,20 +24,6 @@
   - HTML
   - CSS
 
-## Books in 2026: 
-### Completed: 
-  - Data Structures and Algorithms in C++: David Mount
-  - Atomic Habits
-  - Deep Work
-### Currently Reading:
-  - The Design of Everyday Things
-  - Making Embedded Systems: Elecia White
-  - The Inner Game of Tennis
-  - HTWFAIP
-
-### Next Reads:
-  - Advanced Millimeter - Wave Technologies
-  - Code
 
 ## Courses in 2026: 
 ### Currently Doing:
